@@ -1,0 +1,15 @@
+{
+  "name": "deeptutor-harness",
+  "description": "An unofficial port of DeepTutor's tutoring system to Claude Code.",
+  "owner": {
+    "name": "Javier Becerra"
+  },
+  "plugins": [
+    {
+      "name": "deeptutor",
+      "source": ".",
+      "description": "An unofficial port of DeepTutor's tutoring system to Claude Code, for any subject.",
+      "version": "0.1.0"
+    }
+  ]
+}

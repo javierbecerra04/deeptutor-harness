@@ -1,0 +1,13 @@
+DeepTutor harness for Claude Code
+Copyright 2026 Javier Becerra
+
+This product is a derivative work of DeepTutor (https://github.com/HKUDS/DeepTutor),
+Copyright HKUDS, licensed under the Apache License, Version 2.0.
+
+Changed from the original: the mastery policy, retention scheduler, grading rules and
+memory rules were ported from Python packages to a standalone CLI (scripts/). The personas
+(output-styles/) are copied with new frontmatter. Prompts for the mastery loop, question
+generation, deep solve, research, visualization, reading, books, co-writing, notebook and
+memory were rewritten as Claude Code skills and agents (skills/, agents/). DeepTutor's
+server, web app, provider layer, embedding-based knowledge bases, partners and media
+generation are not included.

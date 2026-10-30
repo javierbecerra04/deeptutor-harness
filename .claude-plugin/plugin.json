@@ -1,0 +1,20 @@
+{
+  "name": "deeptutor",
+  "displayName": "DeepTutor Harness",
+  "version": "0.1.0",
+  "description": "An unofficial port of DeepTutor's tutoring system to Claude Code: mastery gates, spaced review, quizzes, research, cited reading and books, for any subject. No API key or server.",
+  "author": {
+    "name": "Javier Becerra"
+  },
+  "homepage": "https://github.com/javierbecerra04/deeptutor-harness",
+  "repository": "https://github.com/javierbecerra04/deeptutor-harness",
+  "license": "Apache-2.0",
+  "keywords": [
+    "learning",
+    "tutoring",
+    "mastery",
+    "spaced-repetition",
+    "quiz",
+    "research"
+  ]
+}
